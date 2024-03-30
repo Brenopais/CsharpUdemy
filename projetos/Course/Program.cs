@@ -6,9 +6,9 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            sbyte x = 100;
+            byte n1 = 126;
 
-            Console.WriteLine(x);
+            Console.WriteLine(n1);
         }
 
     }
