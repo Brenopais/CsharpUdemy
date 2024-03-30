@@ -1,0 +1,15 @@
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+E:\Estudo\CursoC#-Udemy\projetos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json
