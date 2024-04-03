@@ -1,0 +1,7 @@
+E:\Estudo\CursoC#-Udemy\projetos\ProvaBreno\bin\Debug\ProvaBreno.exe.config
+E:\Estudo\CursoC#-Udemy\projetos\ProvaBreno\bin\Debug\ProvaBreno.exe
+E:\Estudo\CursoC#-Udemy\projetos\ProvaBreno\bin\Debug\ProvaBreno.pdb
+E:\Estudo\CursoC#-Udemy\projetos\ProvaBreno\obj\Debug\ProvaBreno.csproj.AssemblyReference.cache
+E:\Estudo\CursoC#-Udemy\projetos\ProvaBreno\obj\Debug\ProvaBreno.csproj.CoreCompileInputs.cache
+E:\Estudo\CursoC#-Udemy\projetos\ProvaBreno\obj\Debug\ProvaBreno.exe
+E:\Estudo\CursoC#-Udemy\projetos\ProvaBreno\obj\Debug\ProvaBreno.pdb

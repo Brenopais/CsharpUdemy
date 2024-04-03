@@ -1,0 +1,7 @@
+E:\Estudo\CursoC#-Udemy\projetos\part1\bin\Debug\part1.exe.config
+E:\Estudo\CursoC#-Udemy\projetos\part1\bin\Debug\part1.exe
+E:\Estudo\CursoC#-Udemy\projetos\part1\bin\Debug\part1.pdb
+E:\Estudo\CursoC#-Udemy\projetos\part1\obj\Debug\models.csproj.AssemblyReference.cache
+E:\Estudo\CursoC#-Udemy\projetos\part1\obj\Debug\models.csproj.CoreCompileInputs.cache
+E:\Estudo\CursoC#-Udemy\projetos\part1\obj\Debug\part1.exe
+E:\Estudo\CursoC#-Udemy\projetos\part1\obj\Debug\part1.pdb
